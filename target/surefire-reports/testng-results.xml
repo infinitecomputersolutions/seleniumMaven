@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testng" duration-ms="41622" started-at="2014-08-11T04:54:48Z" finished-at="2014-08-11T04:55:30Z">
+    <groups>
+    </groups>
+    <test name="smoke" duration-ms="41622" started-at="2014-08-11T04:54:48Z" finished-at="2014-08-11T04:55:30Z">
+      <class name="smoketest.TC_002">
+        <test-method status="PASS" signature="example()[pri:0, instance:smoketest.TC_002@5ddfb8d0]" name="example" duration-ms="41589" started-at="2014-08-11T10:24:49Z" finished-at="2014-08-11T10:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example -->
+      </class> <!-- smoketest.TC_002 -->
+    </test> <!-- smoke -->
+  </suite> <!-- testng -->
+</testng-results>
